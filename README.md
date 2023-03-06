@@ -1,2 +1,2 @@
-# starbucks
+# Starbucks
 Fake Starbucks App
